@@ -140,12 +140,9 @@ body {
 }
 .text{
   color: white;
-  padding-bottom: 150px;
+  padding-bottom: 300px;
 }
 .hiddenbutton{
   padding-bottom: 10px;
-  color: #0681d3;
-}
-.hiddenbutton:hover{
-  background-color:white;
+  color: white;
 }
